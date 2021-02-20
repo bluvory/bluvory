@@ -7,7 +7,6 @@
 🚀 I want to be a Machine Learning Engineer :)
 
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
 
