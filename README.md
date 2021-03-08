@@ -1,10 +1,12 @@
 ### Hi bibi 👋
 
-✨ My major is Department of Mathematics and Computer Engineering
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
 
-💻 I'm interested in Data Science and Computer Vision
+[![bi's github stats](https://github-readme-stats.vercel.app/api?username=bluvory&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-🚀 I want to be a Machine Learning Engineer :)
+Hello My name is Eunbi, I am undergraduate in **Department of Mathematics** and **Computer Engineering**
+I'm interested in **Machine Learning** and **Computer Vision**
 
 
 ### 🎓 Education
@@ -20,10 +22,6 @@
 |**Research activities**|2020.3 ~ Now   |Undergraduate Research Students|**CVLAB, Korea University**|
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
-
-[![bi's github stats](https://github-readme-stats.vercel.app/api?username=bluvory&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
