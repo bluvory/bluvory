@@ -6,17 +6,17 @@
 
 🚀 I want to be a Machine Learning Engineer :)
 
-## 🎓 Education
+### 🎓 Education
 |**Type**|**Date**|**Contents**|**Organization**|
 |--------|--------|------------|----------------|
-|**Education|2018.2 ~ 2021.2**|Department of Mathematics, Computer Engineering|Catholic University of Korea|
+|**Education|2018.2 ~ 2021.2**|Department of Mathematics, Computer Engineering|**Catholic University of Korea**|
 
-Career
+### 🔥Career
 |**Type**|**Date**|**Contents**|**Organization**|
 |--------|--------|------------|----------------|
-|**Research activities**|2020.7 ~ 2020.7|Undergraduate Research Students|National Institute for Mathematical Sciences, NIMS|
-|**Research activities**|2020.9 ~ 2021.2|Undergraduate Research Students|Catholic University of Korea|
-|**Research activities**|2020.3 ~       |Undergraduate Research Students|CVLAB, Korea University|
+|**Research activities**|2020.7 ~ 2020.7|Undergraduate Research Students|**National Institute for Mathematical Sciences, NIMS**|
+|**Research activities**|2020.9 ~ 2021.2|Undergraduate Research Students|**Catholic University of Korea**|
+|**Research activities**|2020.3 ~ Now   |Undergraduate Research Students|**CVLAB, Korea University**|
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
