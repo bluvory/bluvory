@@ -13,12 +13,12 @@ I'm interested in **Machine Learning** and **Computer Vision**
 
 ### 🎓 Education
 |**Type**|**Date**|**Contents**|**Organization**|
-|--------|--------|------------|----------------|
+|:------:|:------:|:----------:|:--------------:|
 |**Education**|2018.2 ~ 2021.2|Department of Mathematics, Computer Engineering|**Catholic University of Korea**|
 
 ### 🔥 Career
 |**Type**|**Date**|**Contents**|**Organization**|
-|--------|--------|------------|----------------|
+|:------:|:------:|:----------:|:--------------:|
 |**Research activities**|2020.7 ~ 2020.8 |Undergraduate Research Students|**National Institute for Mathematical Sciences, NIMS**|
 |**Research activities**|2020.9 ~ 2021.2 |Undergraduate Research Students|**Catholic University of Korea**|
 |**Research activities**|2020.3 ~ **Now**|Undergraduate Research Students|**CVLAB, Korea University**|
