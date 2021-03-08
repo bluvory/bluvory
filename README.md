@@ -6,6 +6,11 @@
 
 🚀 I want to be a Machine Learning Engineer :)
 
+|Type  |Date|설명|
+|------|---|---|
+|Education|2018.2 ~ 2021.2|Department of Mathematics, Computer Engineering|Catholic University of Korea|
+|Research |2020.7 ~ 2020.7|Undergraduate Research Students| National Institute for Mathematical Sciences, NIMS|
+|Research |테스트2|테스트3|
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
