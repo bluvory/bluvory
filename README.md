@@ -6,7 +6,7 @@
 
 🚀 I want to be a Machine Learning Engineer :)
 
-🎓 ##Education
+##🎓 Education
 |**Type**|**Date**|**Contents**|**Organization**|
 |--------|--------|------------|----------------|
 |**Education|2018.2 ~ 2021.2**|Department of Mathematics, Computer Engineering|Catholic University of Korea|
