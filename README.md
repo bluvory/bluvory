@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
 
-Hello My name is Eunbi, I am undergraduate in **Department of Mathematics📚** and **Computer Information Engineering💻**
+Hello My name is Eunbi, I am undergraduate in **Department of Mathematics📚** and **Computer Science and Information Engineering💻**
 
 I'm interested in **Machine Learning** and **Computer Vision**
 
