@@ -1,6 +1,7 @@
 ### Hi bibi 👋
 
-- **B.S.** in Department of Mathematics
+- **M.S.** student in Dept. of Industrial and Management Engineering
+- **B.S.** in Dept. of Mathematics
 - **B.E.** in Computer Science and Information Engineering
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
