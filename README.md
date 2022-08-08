@@ -2,7 +2,7 @@
 
 - **M.S.** student in Dept. of Industrial and Management Engineering
 - **B.S.** in Dept. of Mathematics
-- **B.E.** in Computer Science and Information Engineering
+- **B.S.** in Computer Science and Information Engineering
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bluvory.visitor-badge)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rupihw@gmail.com)](mailto:rupihw@gmail.com)
