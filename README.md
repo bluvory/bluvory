@@ -1,6 +1,6 @@
 ### Hi bibi 👋
 
-- **M.S.** student in Dept. of Industrial and Management Engineering
+- **M.S.** in Dept. of Industrial and Management Engineering
 - **B.S.** in Dept. of Mathematics
 - **B.S.** in Computer Science and Information Engineering
 
